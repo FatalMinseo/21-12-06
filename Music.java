@@ -1,5 +1,5 @@
 
-public class Music {
+public class Music { // 뮤직
 
 	private String musicName;
 	private String singer;
